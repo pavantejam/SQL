@@ -1,0 +1,13 @@
+Create table linkedin (id int, company varchar(15), year int)
+Truncate table linkedin
+insert into linkedin (id, company, year) values ('1', 'msft', '2000')
+insert into linkedin (id, company, year) values ('1', 'goog', '2006')
+insert into linkedin (id, company, year) values ('1', 'fb', '2012')
+insert into linkedin (id, company, year) values ('2', 'msft', '2001')
+insert into linkedin (id, company, year) values ('2', 'orac', '2004')
+insert into linkedin (id, company, year) values ('2', 'goog', '2007')
+insert into linkedin (id, company, year) values ('3', 'msft', '2006')
+insert into linkedin (id, company, year) values ('3', 'goog', '2008')
+insert into linkedin (id, company, year) values ('3', 'msft', '2012')
+insert into linkedin (id, company, year) values ('4', 'msft', '2006')
+insert into linkedin (id, company, year) values ('4', 'goog', '2008')
